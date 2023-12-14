@@ -1,0 +1,28 @@
+/* style programme 41.1 */
+/* .heading1{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+} */
+/* programme42.2  */
+ /* .heading2{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}  */
+
+
+
+/* programme44.1 */
+.button{
+    color: red;
+    display: flex;
+    flex-direction:column-reverse;
+    
+    background-color: black;
+    margin: 0 auto;
+    padding: 20px;
+    margin:20px;
+}
